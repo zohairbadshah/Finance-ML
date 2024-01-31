@@ -1,5 +1,5 @@
 
-# Machine Learning and Data Science Blueprints for Finance - Jupyter Notebooks
+# Machine Learning and Data Science Blueprints for Finance - Jupyter Notebooks and Investech's ML
 
 This github repository contains the code to the case studies in the O'Reilly book *Machine Learning and Data
 Science Blueprints for Finance*
